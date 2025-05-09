@@ -1,5 +1,4 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work]
-
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Kouou24/Kouou24/raw/master/Kouou24.gif)
 
 # 👋 &nbsp;Hi there
 
