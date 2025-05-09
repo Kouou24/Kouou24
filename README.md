@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wei Lin</h1>
 <h3 align="center">Studying Computer Science at NTUT.</h3>
 
-<h3 align="left">Connect with me:t111590023@ntut.org.tw</h3>
+<h3 align="left">Connect with me: t111590023@ntut.org.tw</h3>
 <p align="left">
 </p>
 
